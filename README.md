@@ -1,5 +1,7 @@
 # CS208-starter-code
 
+![Screenshot of the website](./demo.png)
+
 - Click Use this template, then click Open in a codespace.
 - Open the terminal in your codespace.
 - Run `npm install` to install the dependencies.
